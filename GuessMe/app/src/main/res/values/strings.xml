@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess Me</string>
+    <string name="i_ve_number_between_1_to_20_gues_that">I\'ve number between 1 to 20. Gues that..!!!</string>
+    <string name="i_m_thinking_a_number_between_1_to_20">I\'m thinking a number between 1 to 20.</string>
+    <string name="can_you_guess">Can you guess???</string>
+    <string name="enter_number_here">Enter number here</string>
+    <string name="guess">Guess</string>
+</resources>
