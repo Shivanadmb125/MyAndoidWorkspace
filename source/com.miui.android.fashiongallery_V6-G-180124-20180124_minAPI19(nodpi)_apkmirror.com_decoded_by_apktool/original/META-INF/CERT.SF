@@ -1,0 +1,629 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: XwimwT6M2pA5c7AxBbKgOEQlw5M=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: UGp+arbtFvBnA4OKLYly/RQob1I=
+
+Name: res/layout/tex_image_button.xml
+SHA1-Digest: kdBF9eG9ls+0M9hYDifm9AhSlng=
+
+Name: res/drawable-nodpi-v4/apply_subscribe_changes_disable.9.png
+SHA1-Digest: lJYnAc+lw5RdtqeW3DYglNhyqyU=
+
+Name: res/drawable-xxxhdpi-v4/share_enable.png
+SHA1-Digest: Ol0hlmzwl/WrS9aLFfKITeea9yY=
+
+Name: res/drawable-nodpi-v4/category_circle_default.png
+SHA1-Digest: 080DCKPcqrlif3y7zLcl7ws+tgw=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: OOefFpggagskOSa29mfgruzOhPQ=
+
+Name: res/drawable-xxxhdpi-v4/fp_icon.png
+SHA1-Digest: 6TMRGtKGKCA/J8512Rs8K4Ka7mo=
+
+Name: res/drawable/pager_tags_item_bg.xml
+SHA1-Digest: uwh/VW5oerugNh99lBfP+64TvpA=
+
+Name: res/drawable-xxhdpi-v4/liked.png
+SHA1-Digest: WuMTUKjFMhbqmd5qVPptiDuBDYE=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: y9fFL7ZwxVmqnnOis/943Gj9mHg=
+
+Name: res/layout/lockcreen_setting_checked.xml
+SHA1-Digest: 5ENX91Vqqyz/OiVD8d0UL6+8w5Q=
+
+Name: res/drawable-xhdpi-v4/play_like.png
+SHA1-Digest: 265aG8tKWFnkuokUQDCtuqjcQzk=
+
+Name: assets/defaultImage_720/g4_01
+SHA1-Digest: ss7lIFsDCNY5hetleu5FOGKz3rc=
+
+Name: res/drawable-xxxhdpi-v4/apply_disable.png
+SHA1-Digest: 0zcI6L9ACRrShIAvdTn6u0FpipQ=
+
+Name: assets/defaultImage_720/g4_02
+SHA1-Digest: aVBQi00+9E1ZhQhFByy++qwSsMc=
+
+Name: assets/defaultImage_720/g4_03
+SHA1-Digest: ejQo9opm+5YlptCIpi+eAyt8CBo=
+
+Name: assets/defaultImage_720/g4_04
+SHA1-Digest: 44LL7kFK8EEIG/vxgu4LZZirWow=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: pz3KzoN4VUji8oE+F3S+L9Y4Tkg=
+
+Name: assets/defaultImage_720/g4_05
+SHA1-Digest: 40JpaQ8bR+ccMU1ZuXspvFYBSQU=
+
+Name: assets/defaultImage_720/g4_06
+SHA1-Digest: tCFdXBtaMgP16wDSj37kGJ+MkhY=
+
+Name: assets/defaultImage_720/g4_07
+SHA1-Digest: dRsAeIWDYXQ3ppLBJR0whL26Lik=
+
+Name: assets/defaultImage_720/g4_08
+SHA1-Digest: fz5z+5H24wkmWFwbg0XxqU9fSp4=
+
+Name: assets/defaultImage_720/g4_09
+SHA1-Digest: 3s1l6LVKI2qk6p14VoocoKsakC0=
+
+Name: META-INF/rxjava.properties
+SHA1-Digest: bD8MBPd8XBUZ6IS75Dv5nR2UKY0=
+
+Name: res/drawable-xxhdpi-v4/selected.png
+SHA1-Digest: NEM6fIlJMXlJdTLBCUhSolqeEWM=
+
+Name: res/drawable-xxxhdpi-v4/declare_full_btn_cancel_normal.9.png
+SHA1-Digest: 0iWyf/4oWBX7opBzLEFWd4vyGDw=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: 0pjvntaxJFZQBnNN+wtchuP26t4=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: b6W/liKF8jnOBhENCuWsQ5kE3a4=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: ahL1IX+Xa3VHwxUrKeuJQsGU4Rs=
+
+Name: res/drawable-xxhdpi-v4/icon_link.png
+SHA1-Digest: yK7VqCv94Z6EcB54qhS9DEohjPw=
+
+Name: res/drawable-xxxhdpi-v4/settings.png
+SHA1-Digest: eDuMnWmqZxb4jN8meSuEV2/Pvus=
+
+Name: resources.arsc
+SHA1-Digest: qXFtT3Ij5yOyUKy9rldZNwTXflE=
+
+Name: res/drawable-xxhdpi-v4/close.png
+SHA1-Digest: nEyCmjQ5MaySnO+4l5TPdh6smm8=
+
+Name: res/drawable-xhdpi-v4/btn_agree_normal.9.png
+SHA1-Digest: TvFM/bWVEl4w7xu3bBpjLabGCEo=
+
+Name: assets/defaultImage_720/g4_10
+SHA1-Digest: A+HPsV28lx2gI5KFN7agU376qAQ=
+
+Name: push_version
+SHA1-Digest: cDp7oUzhNTymGs4ckGGNl9u1Rf8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Yu2TmI4wdSYwtwwd8vMhYib16vw=
+
+Name: res/drawable-xxxhdpi-v4/like_disable.png
+SHA1-Digest: IcGlWh91k5sSnscY1qX5twa2LjQ=
+
+Name: assets/fonts/Roboto-Light.ttf
+SHA1-Digest: kIraUPnfxqElF/RG25D5oKsF43k=
+
+Name: protobuf.meta
+SHA1-Digest: H1053GDOoK+UNNmQGI2v4y3PW48=
+
+Name: res/drawable-xxxhdpi-v4/apply_enable.png
+SHA1-Digest: 4KAjBf7zEVqj0UqnVyA2r2G5af0=
+
+Name: res/drawable-xxxhdpi-v4/btn_agree_pressed.9.png
+SHA1-Digest: eVcsPXB4j1JoAIARDs0M0wQjWio=
+
+Name: res/drawable-xxhdpi-v4/fp_bg.9.png
+SHA1-Digest: Sq/FkxtzfcFGO0CknmMP1B0NNBc=
+
+Name: res/drawable-xhdpi-v4/fp_icon.png
+SHA1-Digest: +hA4aYVETGXS2NZ5Qfx55AdhYzQ=
+
+Name: res/color/selector_apply_subscribe_change_text_color.xml
+SHA1-Digest: 642ZLCr/Xr/9fL+5CiE0HR91D64=
+
+Name: res/drawable-xhdpi-v4/lockscreen_magazine_system_thumbnail.png
+SHA1-Digest: 0E1KcMHx5cetMAVpfQ6Q/m97B2U=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: qZTXDPkLdLdgn9U7jvOCObBW7aU=
+
+Name: com/google/api/client/repackaged/org/apache/commons/codec/langua
+ ge/dmrules.txt
+SHA1-Digest: HkOU5W2Xk4Sc9KkY/T0bGNai6d4=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: skfmh8AKXvj2Y90RQYRWGn6cYvs=
+
+Name: error_prone/Annotations.gwt.xml
+SHA1-Digest: Kwm6+uXgDAfGLY7VNrMIHmI8Hck=
+
+Name: res/layout/loading_container.xml
+SHA1-Digest: MKL2A/sWjo87yYr6LFgY6jqBfMY=
+
+Name: res/drawable-xxxhdpi-v4/share_disable.png
+SHA1-Digest: tj+ddwc8JuQa8kAqQDRxuiJHgLA=
+
+Name: res/drawable-xhdpi-v4/btn_agree_pressed.9.png
+SHA1-Digest: DFinwTEN+rs0G+mIlMfQgAbDC1Y=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: EEwArFAjDVgWFaQLVPGem748FkM=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: EqgNJcochrxeXggcZB/AB7Gd/jY=
+
+Name: res/drawable-xhdpi-v4/liked.png
+SHA1-Digest: /Ge+zVxyO5yRLuNnO6r7rcpj4Co=
+
+Name: res/drawable-nodpi-v4/glance_logo.png
+SHA1-Digest: xiLUBeVXZt7LgPVv06hQWfJr760=
+
+Name: res/drawable-xxxhdpi-v4/like_enable.png
+SHA1-Digest: 0dvI+XSY9SYvdEDll0Qfanl2XRo=
+
+Name: res/drawable-xhdpi-v4/share_disable.png
+SHA1-Digest: VntVt4g6Hjm768/McyiJ91S+ktI=
+
+Name: res/layout/lockcreen_magazine_list_header.xml
+SHA1-Digest: yqUgJtT3FZbxh6Vo2ccnfg4A/3k=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: wP3ChDPw8ssBf2HYD8KGYJF+X4s=
+
+Name: res/drawable-xhdpi-v4/select_button.9.png
+SHA1-Digest: M1hHVvto+287Y/u5zXPy1+Iy40c=
+
+Name: res/drawable-xxhdpi-v4/apply_enable.png
+SHA1-Digest: rKedSfJplJb7wvohwqboErZyVh8=
+
+Name: res/drawable-xxhdpi-v4/select_button.9.png
+SHA1-Digest: QwUN2GvKSDswtRdoloYnZbmR9/Q=
+
+Name: res/drawable-xxhdpi-v4/like_enable.png
+SHA1-Digest: 0HW7Y7G7ETFgFAPrylRHRUjlnu0=
+
+Name: res/drawable-xhdpi-v4/settings.png
+SHA1-Digest: xV7Ell/vKHsz6Tqv20rtackL67I=
+
+Name: res/drawable-xxhdpi-v4/fp_icon.png
+SHA1-Digest: W0XtmaDBRkP25Jn4UMqgy/wyXBU=
+
+Name: assets/defaultImage/g4_02
+SHA1-Digest: W4N9zUvtpktumZlqIKgHVN4jPG0=
+
+Name: assets/defaultImage/g4_01
+SHA1-Digest: x1/uDN9T842HnojpCitN8E0Yevg=
+
+Name: META-INF/LICENSE
+SHA1-Digest: 5rlDGdWAoJNKq+I1jUV24pitiLg=
+
+Name: res/drawable-xhdpi-v4/selected.png
+SHA1-Digest: 2lJ2LTHrMamOAMrY3accgDPcKXA=
+
+Name: assets/defaultImage/g4_06
+SHA1-Digest: 662/mCMj5A53l0oFy4P8iM4DOAE=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: Tnovl3GT2HHDBF1rlU8FPMsFpFA=
+
+Name: assets/defaultImage/g4_05
+SHA1-Digest: yRGFynNgf3LEW+W7LqO6ufGkch4=
+
+Name: res/drawable-nodpi-v4/drop_down_mark.png
+SHA1-Digest: Zy7smQrWxmprugcwjbtT9fAp7pE=
+
+Name: assets/defaultImage/g4_04
+SHA1-Digest: c1QGn1bRWL7I3pw2pn5wbT+Q9rc=
+
+Name: assets/defaultImage/g4_03
+SHA1-Digest: KqWLIQkGIMZ8ihTG1AvpHjcumvA=
+
+Name: res/drawable-xxxhdpi-v4/declare_full_btn_cancel_pressed.9.png
+SHA1-Digest: klT4uBeBQKQORVtrCQ4vcbwV4rQ=
+
+Name: res/layout/setting_item_with_arrow.xml
+SHA1-Digest: aNwJmDoTfSu/XfcL4krCJGQkSb8=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: AVqnRk6enr6H8F062R7DIS9Q9sQ=
+
+Name: res/drawable-xhdpi-v4/loading_item.png
+SHA1-Digest: 9u6QceG7MhIVvlz2GYLcraDSxy0=
+
+Name: res/drawable-xxxhdpi-v4/flower.png
+SHA1-Digest: tnC2lyL+fPo8l1zcNi0AFruswWk=
+
+Name: res/xml/file_paths.xml
+SHA1-Digest: fX2XFwphyTyqJDy1vQ7E1aMUmvg=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: LLuqzGdXDWFMd4w7ZZWasAKZpgU=
+
+Name: res/layout/fragment_setting.xml
+SHA1-Digest: JhDQs/0DmeKnajKUaVpbXZVyESU=
+
+Name: assets/defaultImage/g4_09
+SHA1-Digest: xBYNWm6yuRMp/54z/CktCFPn8Og=
+
+Name: assets/defaultImage/g4_08
+SHA1-Digest: iMyiJIUOu77UlLmrURfAvz+coi4=
+
+Name: assets/defaultImage/g4_07
+SHA1-Digest: wzjI2NbsYGVEnRCY4xTWwaTUCZk=
+
+Name: assets/defaultImage/g4_10
+SHA1-Digest: 4uskA2Z77b4m2jAsFSoZX7ocENs=
+
+Name: res/drawable-xxhdpi-v4/share_enable.png
+SHA1-Digest: YqdsPqaIUAggyf0CxD9nvt7U9Uc=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 0Dt0B8woYuigcLStYlkwUbmTjOY=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: t/46jMxN2nLNJWgdnSEPtCCPgz0=
+
+Name: res/drawable-xxhdpi-v4/loading_item.png
+SHA1-Digest: Hj4Nugvm5fx3x8Pfj64ZyGs367c=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Q3acMTlGj6UQhONPvMrXTfJYYHU=
+
+Name: res/drawable-nodpi-v4/apply_subscribe_changes_pressed.9.png
+SHA1-Digest: puK3Q0HV8pIyJh2NvF4B8USFvs0=
+
+Name: HACKED-META-INF/services/io.grpc.ManagedChannelProvider
+SHA1-Digest: GAw3+0NevS837hSfhT/6ZTlRTqU=
+
+Name: res/drawable/menu_mask_bg.xml
+SHA1-Digest: HQIiN/YbI7IzDF0+rVDfRQEitks=
+
+Name: res/drawable-xxxhdpi-v4/dislike_disable.png
+SHA1-Digest: KShYNmu6bGQ+9/HOilOJ4tfLW+M=
+
+Name: res/drawable-xxxhdpi-v4/arrow_right_normal.png
+SHA1-Digest: lALZyWvvQAy4OrXXhGIOZ6ONZvw=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: GqlxeUYi9nderviC+XwD6tRD5Kg=
+
+Name: META-INF/services/com.fasterxml.jackson.core.JsonFactory
+SHA1-Digest: kvhglGLrdOQ/X7USx1NYHViovlM=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: c87z6O+fBoE29eeROz4oj+CCIwE=
+
+Name: res/drawable-xxhdpi-v4/declare_full_btn_cancel_pressed.9.png
+SHA1-Digest: tqtuNnk4YkeegeKfVhLnJJQ0orY=
+
+Name: res/drawable-xxhdpi-v4/apply_disable.png
+SHA1-Digest: i7y09ZGAZ1I8rRZAGPtA4CRk9UU=
+
+Name: res/drawable/selector_apply_subscribe_change_bg.xml
+SHA1-Digest: AJ6cmLkLC6dzBOjo+Eedrn23wWE=
+
+Name: res/drawable-xhdpi-v4/button_bg_normal.png
+SHA1-Digest: B3pnZDkWAwkY9STT9vuUKQGMSC4=
+
+Name: res/drawable-xxxhdpi-v4/btn_agree_normal.9.png
+SHA1-Digest: 5oTDPLzp+rC6OYdGcIWWM9XfEJs=
+
+Name: res/layout/setting_item_group_divider.xml
+SHA1-Digest: 0uCjw5qba4OSrAzbtVQEWBONpyk=
+
+Name: HACKED-META-INF/services/io.grpc.NameResolverProvider
+SHA1-Digest: 3PSJoD9cAbKS63m4I+ggipheyng=
+
+Name: res/drawable/arrow_right_normal_supprt_rtl.xml
+SHA1-Digest: SOqX8c2kpmXgAIjei1qAi/du4k0=
+
+Name: res/drawable-xxxhdpi-v4/select_button.9.png
+SHA1-Digest: 2ABb57hAfW60JDOQddAoQhDjPwE=
+
+Name: miui_push_version
+SHA1-Digest: 0wBWo/xFjq8g4x/nZS7FcsG0Bgw=
+
+Name: res/drawable-xhdpi-v4/lockscreen_magazine_tag_thumbnail_default.
+ 9.png
+SHA1-Digest: 0ZjwkA0O9rExaDSxAzHBp+VgEyk=
+
+Name: assets/fonts/Roboto-Medium.ttf
+SHA1-Digest: 1pzYqDxe85zmLdLG+RlGrfbjCvA=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: hJGzoms3Ll640uzUM990yBuV1/0=
+
+Name: res/drawable-xxhdpi-v4/btn_agree_normal.9.png
+SHA1-Digest: G+Mejgu3EusrP5sZc9XIbjD8oPc=
+
+Name: res/drawable-xxxhdpi-v4/lockscreen_magazine_system_thumbnail.png
+SHA1-Digest: xccFzD8Fs0dP74NSY99cKnMjldA=
+
+Name: res/layout/menu_item2.xml
+SHA1-Digest: bvA1HO1xGN/ZzVB1Rzkexlxvy9o=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: VLNXFzqJn8hvw7NJ233yGma3RqA=
+
+Name: res/layout/lockcreen_select_page.xml
+SHA1-Digest: HsGx+xJPVPE/upbjYlnxSGSPmFU=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: KU/cylbqvjkn76EzqDHrGYdubxg=
+
+Name: res/drawable-xxhdpi-v4/like_disable.png
+SHA1-Digest: kh0mMJD9UePkDZzZjS33XWiR76M=
+
+Name: res/drawable-xxxhdpi-v4/dislike_enable.png
+SHA1-Digest: 8XdP2nEEZmhnBXPdSVsqiO9GryM=
+
+Name: res/layout/setting_item_subscribe_grid_item.xml
+SHA1-Digest: nwTPoGBechPTReupmHHCLwXRDwA=
+
+Name: res/drawable/share_selector.xml
+SHA1-Digest: Z1fphz8RQonXKNVfaGxjTcElPcA=
+
+Name: res/layout/setting_item_with_switch.xml
+SHA1-Digest: sWpv/npy7nvuQfbiRp4abhD8jFU=
+
+Name: res/drawable-xhdpi-v4/share_enable.png
+SHA1-Digest: YIqK6/rcaPY74D2UK8etE/4k+Oo=
+
+Name: res/drawable/apply_selector.xml
+SHA1-Digest: B1DYvnDLETF/i52B+2/+WsnG+bs=
+
+Name: res/layout/declaration_view_international.xml
+SHA1-Digest: IPIEPgOHIXQkkvuRH6Yf6pT/4z0=
+
+Name: res/drawable-xxxhdpi-v4/close.png
+SHA1-Digest: q6yhpE7gaousf2gHqURZSQf22UI=
+
+Name: res/drawable-xxhdpi-v4/settings.png
+SHA1-Digest: 1FYXvzv3ar6t0fPpdiVgdj3z9d4=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: nmv5U418DLbK/IpqG+mxsvjsH5U=
+
+Name: res/drawable-xxhdpi-v4/dislike_disable.png
+SHA1-Digest: em/ErPkk7uEfPtrJhQlf/cFqWuA=
+
+Name: res/drawable-xxxhdpi-v4/liked.png
+SHA1-Digest: N5iNICTeobcAxeroMJnyz59tYPg=
+
+Name: res/drawable/declare_full_btn_cancel.xml
+SHA1-Digest: LgxWZzUMSAUWfYAkBQIDHG61aC4=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: oJn0egk43cZEkJEy8Lai9ITpXLk=
+
+Name: res/layout/lockcreen_magazine_list.xml
+SHA1-Digest: TVySjufPu8I0oRl5iH4of9bOPF8=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: 1ltSladBULkzIJ/rTAU+zNV5ozQ=
+
+Name: res/drawable-xhdpi-v4/dislike_disable.png
+SHA1-Digest: yzhngNttHZKvPvNiot/4tfYejIE=
+
+Name: res/drawable-xhdpi-v4/play_like_select.png
+SHA1-Digest: J3Jo+Q8FoyqyiCJ+XRUXo+TgVXg=
+
+Name: res/drawable/dislike_selector.xml
+SHA1-Digest: PyEAsWCbOm+DHvgqL9YiaYLMdpk=
+
+Name: res/drawable-xhdpi-v4/like_disable.png
+SHA1-Digest: tBjEHx+Eo9B+sw1+Yy9FboCN6R0=
+
+Name: third_party/java_src/error_prone/project/annotations/Annotations
+ .gwt.xml
+SHA1-Digest: ud3RkxL48PzVTITdnpzEaHSM5fA=
+
+Name: res/drawable-xxhdpi-v4/share_disable.png
+SHA1-Digest: MrwAABswLJunVNmw9hBayN3oHAc=
+
+Name: res/layout/activity_preview_wallpaper.xml
+SHA1-Digest: 6rPOupSqjuPp7sWdjGKTL87nbcY=
+
+Name: res/layout/fragment_preview_wallpaper.xml
+SHA1-Digest: CmW6vm/4dnw8HBSnmp/8EHJkle8=
+
+Name: res/drawable-xhdpi-v4/apply_enable.png
+SHA1-Digest: MW6EnidO4R+R8p1MNiXduq4xWLc=
+
+Name: res/drawable-xxhdpi-v4/icon_media.png
+SHA1-Digest: 4si7fdJ3zYMi+JlMF45PhLfz3BQ=
+
+Name: res/drawable-nodpi-v4/declare_full_bg.png
+SHA1-Digest: WTD3GYcAbiuLV6Slg9aIJ1jKRek=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: KbLeVgcM0ywAz59J3aaoLK+bkbw=
+
+Name: res/drawable-xxhdpi-v4/lockscreen_magazine_tag_thumbnail_default
+ .9.png
+SHA1-Digest: iDaQvi+DJ3OewKGWEgFvXHKf3L0=
+
+Name: res/layout/setting_item_subscribe_head.xml
+SHA1-Digest: FkB6CT1DR06pOyaltp4xgAvKYAY=
+
+Name: res/drawable-xhdpi-v4/flower.png
+SHA1-Digest: /WysiNH5WvjZJp642L7lki6IX5A=
+
+Name: res/drawable-xxhdpi-v4/lockscreen_magazine_system_thumbnail.png
+SHA1-Digest: +nrojajbuKWN9hT8i1knKvyRgt0=
+
+Name: res/layout/declaration_view_full.xml
+SHA1-Digest: 1tAbkwD4oatpjpGbQFEkiqsnEnI=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: 6Yd89PWOTISjyO1lRn1YTfqectE=
+
+Name: gradle.properties
+SHA1-Digest: oxbR/JjiidUPOjydihuXZ+/KjqM=
+
+Name: res/drawable-xxxhdpi-v4/select_button_p.9.png
+SHA1-Digest: 4cQn3ga+Hp/69XLJkZ7OzkQKqHs=
+
+Name: res/drawable-xhdpi-v4/declare_full_btn_cancel_pressed.9.png
+SHA1-Digest: 7yiPgro+2/ZOHSKM+ge9CmivD0E=
+
+Name: res/drawable-xxhdpi-v4/btn_agree_pressed.9.png
+SHA1-Digest: xa2W+uAFux805OSk11Rad+cTWzA=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: aKZddLHe/i7dxhCmBR/Sf6ANdFk=
+
+Name: res/drawable-xhdpi-v4/select_button_p.9.png
+SHA1-Digest: HfLfZ0o/FbCE0Izo26nFL5NMIgA=
+
+Name: res/drawable/selector.xml
+SHA1-Digest: KlHDosA8V7y1Fqjhh5v/XLeQjqY=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: Njbg7WiqnU87F6pJmdwnRJnc0B4=
+
+Name: res/drawable/selector_set_item_jumper_bg.xml
+SHA1-Digest: zR5gFjN+jwLo4IGG0YGP+/0d3rU=
+
+Name: res/drawable-xhdpi-v4/item_arrow_right.png
+SHA1-Digest: RV5SSa+XIV7JhiJcmhWWoBGbQ1k=
+
+Name: res/drawable/like_selector.xml
+SHA1-Digest: dXmdoVuuD555TEqFPFmoFNWHB0w=
+
+Name: res/drawable-nodpi-v4/grid_item_checked_support_rtl.xml
+SHA1-Digest: ILtTV4tdNp0psrTEp20o1Ouj4e4=
+
+Name: third_party/java_src/error_prone/project/annotations/Google_inte
+ rnal.gwt.xml
+SHA1-Digest: ACt4f5q4jZb+EjNgIWB2rO5TslU=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: CPh4e45FAu+EgKuHzI46N5IEa0Y=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: Man7EDLGseY4WgY+OlJZ+vd1roI=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: sZI/MrQgBXh2aJFcQWzZXWRcBz0=
+
+Name: res/drawable-xhdpi-v4/declare_full_btn_cancel_normal.9.png
+SHA1-Digest: EDy+suDusGMos36Fs8EkZwJLd2k=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: AnsB6YDRvewRH0ny8EV1gXz/8ro=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: tLTtgWwmC52vFV8WmsQe/d9txW4=
+
+Name: res/drawable-xxxhdpi-v4/loading_item.png
+SHA1-Digest: F8vdAvCmdHgXTKTMnhntyJXJRPs=
+
+Name: res/drawable/wallpaper_desc_mask_bg.xml
+SHA1-Digest: Wkc+/vViJR/XoXHSQWBVtB3pfn8=
+
+Name: res/layout/activity_setting.xml
+SHA1-Digest: ecdgsCK9CjcWc3USFDWYmzmvS5U=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: /6HbAeB+6HqPE+YQlSubrL19WSo=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: +WaWq164+JEgAS3SD7a6bgQZgMc=
+
+Name: res/drawable-xxhdpi-v4/select_button_p.9.png
+SHA1-Digest: zrrHK7swvRrKErHiG15/VJW4S8U=
+
+Name: res/drawable-nodpi-v4/dark_glance_logo.png
+SHA1-Digest: hZBAoCazR7sIIod8d6S7nWdWReY=
+
+Name: res/layout/declaration_view.xml
+SHA1-Digest: U18z42XdNO3rFRwKfRThuypOYuw=
+
+Name: res/layout/lockcreen_settting_select.xml
+SHA1-Digest: 5g8cu1NRCDTnqKprF1auFU3hyWY=
+
+Name: res/drawable-xxxhdpi-v4/selected.png
+SHA1-Digest: h64iPeFgW5Bx04jOvoRJmHYyu3I=
+
+Name: res/drawable-xhdpi-v4/close.png
+SHA1-Digest: Q9QT4olsGEL0+QhWZkLFfMkemeE=
+
+Name: res/drawable-xxhdpi-v4/item_arrow_right.png
+SHA1-Digest: qoSh9ZlQHvGQ65lCUMKVgyh7ovY=
+
+Name: res/drawable-nodpi-v4/apply_subscribe_changes_normal.9.png
+SHA1-Digest: oIJtxypfVnT8Vil4T5AOhHJZb+k=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: oXhMxqCdTU9FU0k6ZW87SKaXIv4=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: 3CDjHLFtZivpGaTFP+WaoVf9RWs=
+
+Name: build-data.properties
+SHA1-Digest: ClQg7+rplQghAczRRBd0E4q41qU=
+
+Name: res/drawable-xxxhdpi-v4/item_arrow_right.png
+SHA1-Digest: UaR7+7CUUgPmPigPi4+WzwXJygM=
+
+Name: res/drawable-xxxhdpi-v4/lockscreen_magazine_tag_thumbnail_defaul
+ t.9.png
+SHA1-Digest: 2Je331g/15YLGUETkUOhhj7OGyk=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: B5QmVxtKVPLJdiGovmOlI1AAhtg=
+
+Name: res/drawable-xxhdpi-v4/dislike_enable.png
+SHA1-Digest: XMs2D+4EIXdoit0YUJqp/GJszU8=
+
+Name: res/drawable-xhdpi-v4/like_enable.png
+SHA1-Digest: PPeFgEURoQ+jM8QdpEDWO3xRMM0=
+
+Name: res/drawable-xxhdpi-v4/declare_full_btn_cancel_normal.9.png
+SHA1-Digest: i2ovlW65QbsPnkJOgKHpIY1ypQI=
+
+Name: res/drawable-nodpi-v4/item_arrow_right_support_rtl.xml
+SHA1-Digest: ZCVUovHVu9LeX6LUsQfAPIHcv2s=
+
+Name: res/drawable-xhdpi-v4/apply_disable.png
+SHA1-Digest: 3UtQNT0dIZm7ekat4AWSCr1/LxM=
+
+Name: res/drawable-xhdpi-v4/button_bg_pressed.png
+SHA1-Digest: TOPhNadGfb6RUcK2ZqOlKleVv4A=
+
+Name: res/drawable-xxhdpi-v4/flower.png
+SHA1-Digest: FgTKTmWtb/JX+VYCfZGIivWMalE=
+
+Name: res/drawable-xhdpi-v4/dislike_enable.png
+SHA1-Digest: ybQqS27k5WoWxVFkmZPaAf4/laU=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: hlGgjwCibYSJn0dDvquLScOoXss=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: hgVUg4RB9UXDj15aIdtq1L7Slgk=
+
+Name: classes.dex
+SHA1-Digest: Qd62kWYVbQllcnwQjIARB2EJXV0=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: c5f+iD+5NWV0zWxwzUyh+V+QpkY=
+

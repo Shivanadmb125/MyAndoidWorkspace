@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s подписчикаов</item>
+        <item quantity="one">%1$s подписчик</item>
+        <item quantity="few">%1$s подписчика</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s изображений</item>
+        <item quantity="one">%1$s изображение</item>
+        <item quantity="few">%1$s изображения</item>
+    </plurals>
+</resources>

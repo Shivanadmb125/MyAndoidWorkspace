@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.gms.ads.AdView android:id="@+id/adView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:adSize="BANNER" android:adUnitId="ca-app-pub-8352911767923333/3406415630" />
+    <android.support.v7.widget.RecyclerView android:id="@+id/rc" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="ERROR" ERROR:shareInterpolator="false">
+    <alpha ERROR:interpolator="0x10a0006" ERROR:duration="@integer/abc_config_activityShortDur" ERROR:fromAlpha="1.0" ERROR:toAlpha="0.0" />
+</set>

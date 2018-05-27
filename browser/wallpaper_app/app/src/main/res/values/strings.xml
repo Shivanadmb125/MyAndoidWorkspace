@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Learn Android</string>
+    <string name="action_settings">Thanks for using this app</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5045887334001032/6810148372</string>
+    <string name="admob_interstitial_id">ca-app-pub-5045887334001032/8099303023</string>
+    <string name="native_ad_unit_id">ca-app-pub-5045887334001032/9504239253</string>
+    <string name="video_ad_unit_id">ca-app-pub-5045887334001032/7810570558</string>
+
+</resources>

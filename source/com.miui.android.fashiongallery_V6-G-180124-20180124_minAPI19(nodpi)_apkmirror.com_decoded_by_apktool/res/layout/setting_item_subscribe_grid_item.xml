@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/setting_grid_item_blank_top" android:paddingBottom="@dimen/setting_grid_item_blank_bottom" android:layout_width="@dimen/setting_grid_item_width" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.miui.android.fashiongallery.view.CircleImageView android:layout_gravity="center" android:id="@id/tag_item_imageview" android:layout_width="@dimen/setting_grid_item_thumbnail_width" android:layout_height="@dimen/setting_grid_item_thumbnail_height" android:scaleType="centerCrop" android:layout_marginStart="@dimen/setting_grid_item_thumbnail_margin_left" android:layout_marginEnd="@dimen/setting_grid_item_thumbnail_margin_right" />
+        <ImageView android:layout_gravity="end|bottom|center" android:id="@id/tag_item_select" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/setting_grid_item_checkbox_margin_bottom" android:src="@drawable/grid_item_checked_support_rtl" android:layout_marginEnd="@dimen/setting_grid_item_checkbox_margin_right" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/set_item_desc_text_size" android:textColor="@color/black_60" android:layout_gravity="center_horizontal" android:id="@id/tag_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setting_grid_item_label_margin_top" />
+</LinearLayout>

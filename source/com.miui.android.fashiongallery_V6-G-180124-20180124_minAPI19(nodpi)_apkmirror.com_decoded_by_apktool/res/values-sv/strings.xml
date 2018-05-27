@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="app_name">Wallpaper Carousel</string>
+    <string name="apply">Verkställ</string>
+    <string name="apply_success">Applied successfully</string>
+    <string name="at_least_one">Välj minst en kategori</string>
+    <string name="auto_interval">Automatiskt</string>
+    <string name="cancel">Avbryt</string>
+    <string name="cancel_international">Avbryt</string>
+    <string name="change_time">Switch wallpapers</string>
+    <string name="day">En gång om dagen</string>
+    <string name="declaration">Get fresh wallpapers delivered directly to your Lock screen daily with Wallpaper Carousel.</string>
+    <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+    <string name="declaration_title">Villkor</string>
+    <string name="dislike">Ta bort</string>
+    <string name="drop_down_notify_text">Release to view more</string>
+    <string name="from_migallerylockscreen">From MIUI Wallpaper Carousel</string>
+    <string name="go_setting">Go to Settings</string>
+    <string name="hour_1">Varje timme</string>
+    <string name="hour_3">Every 3 hours</string>
+    <string name="like">Add to favorites</string>
+    <string name="liked">Added to favorites</string>
+    <string name="lockscreen_magazine_summary">Kategorier</string>
+    <string name="lockscreen_magazine_system_title">Offline</string>
+    <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+    <string name="lockscreen_wallpaper_changed">Lock screen wallpaper was updated</string>
+    <string name="minutes_15">Varje kvart</string>
+    <string name="no_long_show">"Don't show again"</string>
+    <string name="ok_international">Agree</string>
+    <string name="ok_lockscreen">Sätt på</string>
+    <string name="ok_network">Agree</string>
+    <string name="request_operation_storage_permission_desc">Go to Settings and allow Wallpaper Carousel to access storage in order to be able to add wallpapers to favorites.</string>
+    <string name="request_permission">Permissions required</string>
+    <string name="request_setting_allow_storage_permission_desc">Go to Settings and allow Wallpaper Carousel to access storage in order to be able to add wallpapers to favorites.</string>
+    <string name="resource_apply">Verkställ</string>
+    <string name="resource_no_network_text">Kunde inte ansluta till nätverket</string>
+    <string name="setting_favor_desc">View your favorite wallpapers</string>
+    <string name="setting_favor_title">Favorites</string>
+    <string name="setting_grid_view_select_all">Select all</string>
+    <string name="setting_grid_view_unselect_all">Deselect all</string>
+    <string name="setting_head">Inställningar</string>
+    <string name="setting_no_favor_wallpaper_hint">No favorite wallpapers</string>
+    <string name="setting_prov_enable_desc">Get new wallpapers delivered to your Lock screen regularly</string>
+    <string name="setting_prov_enable_title">Turn on Wallpaper Carousel</string>
+    <string name="setting_require_one_category_hint">Välj minst en kategori</string>
+    <string name="setting_sti_desc">Set wallpaper update frequency</string>
+    <string name="setting_sti_title">Update frequency</string>
+    <string name="setting_subscribe_title">Prenumerationer</string>
+    <string name="setting_wifi_only_desc">Turn this feature off to save mobile data</string>
+    <string name="setting_wifi_only_title">Update wallpapers using mobile data</string>
+    <string name="settings">Inställningar</string>
+    <string name="share">Dela</string>
+    <string name="summary">"By using Wallpaper Carousel, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Wallpaper Carousel needs to connect to the internet to work normally."</string>
+    <string name="summary_international">"By using Wallpaper Carousel, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Wallpaper Carousel needs to connect to the internet to work normally.​"</string>
+    <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
+    <string name="theme_apply_success">Lock screen applied</string>
+    <string name="theme_applying">Applying…</string>
+    <string name="wlan_download">Uppdatera endast med Wi-Fi</string>
+    <string name="wlan_download_cn">Uppdatera endast med Wi-Fi</string>
+</resources>

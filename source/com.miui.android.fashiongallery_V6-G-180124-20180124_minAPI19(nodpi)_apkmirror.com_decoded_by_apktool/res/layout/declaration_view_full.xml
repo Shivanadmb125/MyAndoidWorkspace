@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="112.29999dip" android:src="@drawable/flower" />
+    <TextView android:textSize="20.0dip" android:textColor="#ffffffff" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="17.299988dip" android:layout_marginBottom="59.0dip" />
+    <TextView android:textSize="13.299988dip" android:textColor="#80ffffff" android:id="@id/declaration_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="11.0dip" android:text="@string/declaration" android:lineSpacingExtra="5.299988dip" android:layout_marginStart="42.0dip" android:layout_marginEnd="36.0dip" />
+    <TextView android:textSize="13.299988dip" android:textColor="#80ffffff" android:textColorLink="#ffffffff" android:id="@id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="34.0dip" android:text="@string/summary" android:layout_marginStart="42.0dip" android:layout_marginEnd="36.0dip" />
+    <TextView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <Button android:textSize="12.599976dip" android:textColor="#ffffffff" android:id="@id/apply" android:background="@drawable/selector" android:layout_width="fill_parent" android:layout_height="39.299988dip" android:layout_marginLeft="28.0dip" android:layout_marginRight="28.0dip" android:layout_marginBottom="19.299988dip" />
+    <Button android:textSize="12.599976dip" android:textColor="#88ffffff" android:id="@id/cancel" android:background="@drawable/declare_full_btn_cancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="28.0dip" android:layout_marginRight="28.0dip" android:layout_marginBottom="24.0dip" android:text="@string/cancel" />
+</LinearLayout>

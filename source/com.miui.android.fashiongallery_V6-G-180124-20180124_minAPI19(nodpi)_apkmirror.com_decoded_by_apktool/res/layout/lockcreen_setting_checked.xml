@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="@dimen/lockscreen_magzine_setting_category_v_padding" android:paddingBottom="@dimen/lockscreen_magzine_setting_category_v_padding" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/title_text_size" android:textColor="@color/normal_text_light" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <miui.widget.SlidingButton android:id="@id/checkbox" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:background="@color/drawable_listview_divider" android:layout_width="fill_parent" android:layout_height="@dimen/lockscreen_magzine_setting_listview_divider_height" />
+</FrameLayout>

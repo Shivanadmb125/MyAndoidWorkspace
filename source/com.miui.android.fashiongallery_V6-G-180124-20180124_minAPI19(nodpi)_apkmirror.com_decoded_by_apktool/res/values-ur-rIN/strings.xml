@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وال پیپر کاراؤزل</string>
+    <string name="apply">اطلاق کریں</string>
+    <string name="apply_success">کامیابی سے لاگو کیا گیا</string>
+    <string name="at_least_one">کم از کم 1 زمرہ منتخب کریں</string>
+    <string name="auto_interval">خود کار</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="cancel_international">منسوخ کریں</string>
+    <string name="change_time">وال پیپرز سوئچ کریں</string>
+    <string name="day">دن میں ایک مرتبہ</string>
+    <string name="declaration">وال پیپر کیروسیل کے ساتھ روزانہ اپنے لاک اسکرین پر براہ راست تازہ وال پیپر حاصل کریں۔</string>
+    <string name="declaration_lockscreen_title">وال پیپر کاراؤزل</string>
+    <string name="declaration_title">شرائط و ضوابط</string>
+    <string name="dislike">حذف کریں</string>
+    <string name="drop_down_notify_text">مزید دیکھنے کے لیے ریلیز کریں</string>
+    <string name="from_migallerylockscreen">MIUI وال پیپر کیروسل سے</string>
+    <string name="go_setting">ترتیبات میں جائیں</string>
+    <string name="hour_1">ہر گھنٹے</string>
+    <string name="hour_3">ہر 3 گھنٹے</string>
+    <string name="like">پسندیدہ میں شامل کریں</string>
+    <string name="liked">پسندیدہ میں شامل کیا گیا</string>
+    <string name="lockscreen_magazine_summary">زمرہ جات</string>
+    <string name="lockscreen_magazine_system_title">آف لائن</string>
+    <string name="lockscreen_magazine_title">وال پیپر کیروسل</string>
+    <string name="lockscreen_wallpaper_changed">لاک اسکرین وال پیپر اپ ڈیٹ کر دیا گیا</string>
+    <string name="minutes_15">ہر 10 منٹ پر</string>
+    <string name="no_long_show">دوبارہ نہیں دکھائیں</string>
+    <string name="ok_international">اتفاق کریں</string>
+    <string name="ok_lockscreen">چالو کریں</string>
+    <string name="ok_network">اتفاق کریں</string>
+    <string name="request_operation_storage_permission_desc">ترتیبات میں جائیں اور وال پیپر کو پسندیدہ میں شامل کرنے کے لیے وال پیپر کیروسل کو اسٹوریج تک رسائی کی اجازت دیں۔</string>
+    <string name="request_permission">اجازتیں درکار ہیں</string>
+    <string name="request_setting_allow_storage_permission_desc">ترتیبات میں جائیں اور وال پیپر کو پسندیدہ میں شامل کرنے کے لیے وال پیپر کیروسل کو اسٹوریج تک رسائی کی اجازت دیں۔</string>
+    <string name="resource_apply">اطلاق کریں</string>
+    <string name="resource_no_network_text">نیٹ ورک سے نہیں جڑ سکا۔</string>
+    <string name="setting_favor_desc">اپنے پسندیدہ وال پیپر دیکھیں</string>
+    <string name="setting_favor_title">پسندیدہ</string>
+    <string name="setting_grid_view_select_all">تمام منتخب کریں</string>
+    <string name="setting_grid_view_unselect_all">تمام غیر منتخب کریں</string>
+    <string name="setting_head">ترتیبات</string>
+    <string name="setting_no_favor_wallpaper_hint">کوئی پسندیدہ وال پیپر نہیں</string>
+    <string name="setting_prov_enable_desc">باقاعدگی سے نئے وال پیپر لاک اسکرین پر حاصل کریں</string>
+    <string name="setting_prov_enable_title">وال پیپر کیروسل چالو کریں</string>
+    <string name="setting_require_one_category_hint">کم از کم 1 زمرہ منتخب کریں</string>
+    <string name="setting_sti_desc">وال پیپر اپ ڈیٹ کا تعدد سیٹ کریں</string>
+    <string name="setting_sti_title">اپ ڈیٹ کا تعدد</string>
+    <string name="setting_subscribe_title">رکنیت</string>
+    <string name="setting_wifi_only_desc">موبائل ڈیٹا کی بچت کرنے کے لئے یہ فیچر بند کریں</string>
+    <string name="setting_wifi_only_title">موبائل ڈیٹا کا استعمال کرتے ہوئے وال پیپر اپ ڈیٹ کریں</string>
+    <string name="settings">ترتیبات</string>
+    <string name="share">اشتراک کریں</string>
+    <string name="summary">"وال پیپر کیروسل استعمال کر کے, آپ ہمارے &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>صارف معاہدہ&lt;/a> اور &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>رازداری پالیسی&lt;/a> سے اتفاق کرتے ہیں۔ وال پیپر کیروسل کو حسب معمول کام کرنے کے لیے انٹرنیٹ سے مربوط ہونے کی ضرورت ہے۔"</string>
+    <string name="summary_international">"وال پیپر کیروسل استعمال کر کے, آپ ہمارے &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>صارف معاہدہ&lt;/a> اور &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>رازداری پالیسی&lt;/a> سے اتفاق کرتے ہیں۔ وال پیپر کیروسل کو حسب معمول کام کرنے کے لیے انٹرنیٹ سے مربوط ہونے کی ضرورت ہے۔"</string>
+    <string name="theme_apply_failured">لاگو نہیں کیا جا سکا، بعد ازاں دوبارہ کوشش کریں</string>
+    <string name="theme_apply_success">قفل سکرین لگائی گئی</string>
+    <string name="theme_applying">لاگو کیا جا رہا ہے…</string>
+    <string name="wlan_download">صرف Wi-Fi پر اپ ڈیٹ کریں</string>
+    <string name="wlan_download_cn">صرف Wi-Fi پر اپ ڈیٹ کریں</string>
+</resources>

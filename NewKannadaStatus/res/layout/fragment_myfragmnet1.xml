@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.gms.ads.AdView android:id="@+id/adView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:adSize="BANNER" android:adUnitId="ca-app-pub-8352911767923333/9820205772" />
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <android.support.v7.widget.CardView android:id="@+id/card1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#ffad99" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/preeti" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಪ್ರೀತಿ" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಪ್ರೀತಿ" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#b3ff99" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/jeevan" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಜೀವನ" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಜೀವನ" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card3" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#ffccff" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/status" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" ಸ್ಟೇಟಸ್" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=" ಸ್ಟೇಟಸ್" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card4" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#99ebff" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/jokes" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಜೋಕ್ಸ್" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಜೋಕ್ಸ್" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card5" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#ccccff" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/shubashit" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಸುಭಾಷಿತ" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಸುಭಾಷಿತ" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card6" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#b3e6cc" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/vachana" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ವಚನ" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ವಚನ" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#d1e0e0" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/gaade" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಗಾದೆಗಳು" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಗಾದೆಗಳು" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card8" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#ededa6" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/dialogue" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಡೈಲಾಗ್" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಡೈಲಾಗ್" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card9" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#e6faf0" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/vagatu" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಒಗಟು" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಒಗಟುಗಳು" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card10" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#f2cfff" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/kategalu" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಕಥೆಗಳು" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ನೀತಿ ಕಥೆಗಳು" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card11" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#e6b3b3" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/man" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ವ್ಯಕ್ತಿಗಳು" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಮಹಾನ್ ವ್ಯಕ್ತಿಗಳು" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:id="@+id/card12" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="2dp">
+                <LinearLayout android:orientation="horizontal" android:background="#e6ff99" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <Button android:id="@+id/chanakya" android:background="@drawable/prreti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ಚಾಣಕ್ಯ" />
+                    <TextView android:textSize="20sp" android:textColor="#123458" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ಚಾಣಕ್ಯ ನೀತಿ ಸೂತ್ರಗಳು" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

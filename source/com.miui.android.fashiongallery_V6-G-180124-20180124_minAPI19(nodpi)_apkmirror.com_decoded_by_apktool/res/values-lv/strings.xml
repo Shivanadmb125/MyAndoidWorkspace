@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">Wallpaper Carousel</string>
+    <string name="apply">Apply</string>
+    <string name="apply_success">Veiksmīgi piemērots</string>
+    <string name="at_least_one">Izvēlieties vismaz 1 kategoriju</string>
+    <string name="auto_interval">Automātiski</string>
+    <string name="cancel">Atcelt</string>
+    <string name="cancel_international">Atcelt</string>
+    <string name="change_time">Mainīt ekrāna tapetes</string>
+    <string name="day">Reizi dienā</string>
+    <string name="declaration">Saņemiet jaunas ekrāna tapetes tieši savā Bloķēšanas ekrānā katru dienu ar Ekrāna tapešu karuseli.</string>
+    <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+    <string name="declaration_title">Noteikumi un nosacījumi</string>
+    <string name="dislike">Dzēst</string>
+    <string name="drop_down_notify_text">Release to view more</string>
+    <string name="from_migallerylockscreen">No MIUI Ekrāna tapešu karuseļa</string>
+    <string name="go_setting">Go to Settings</string>
+    <string name="hour_1">Ik stundu</string>
+    <string name="hour_3">Ik pēc 3 stundām</string>
+    <string name="like">Add to favorites</string>
+    <string name="liked">Pievienots izlasei</string>
+    <string name="lockscreen_magazine_summary">Categories</string>
+    <string name="lockscreen_magazine_system_title">Bezsaistē</string>
+    <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+    <string name="lockscreen_wallpaper_changed">Bloķēšanas ekrāna tapete ir atjaunināta</string>
+    <string name="minutes_15">Ik pēc 15 minūtēm</string>
+    <string name="no_long_show">Vairs nerādīt</string>
+    <string name="ok_international">Agree</string>
+    <string name="ok_lockscreen">Turn on</string>
+    <string name="ok_network">Agree</string>
+    <string name="request_operation_storage_permission_desc">Ejiet uz Iestatījumiem un atļaujiet Ekrāna tapešu karuselim piekļūt atmiņai, lai varētu pievienot ekrāna tapetes izlasei.</string>
+    <string name="request_permission">Permissions required</string>
+    <string name="request_setting_allow_storage_permission_desc">Ejiet uz Iestatījumiem un atļaujiet Ekrāna tapešu karuselim piekļūt atmiņai, lai varētu pievienot ekrāna tapetes izlasei.</string>
+    <string name="resource_apply">Apply</string>
+    <string name="resource_no_network_text">Neizdevās pieslēgties tīklam</string>
+    <string name="setting_favor_desc">Skatiet savu ekrāna tapešu izlasi</string>
+    <string name="setting_favor_title">Favorites</string>
+    <string name="setting_grid_view_select_all">Select all</string>
+    <string name="setting_grid_view_unselect_all">Atmest visus</string>
+    <string name="setting_head">Iestatījumi</string>
+    <string name="setting_no_favor_wallpaper_hint">Nav ekrāna tapešu izlasē</string>
+    <string name="setting_prov_enable_desc">Regulāri iegūstiet jaunas ekrāna tapetes savam Bloķēšanas ekrānam</string>
+    <string name="setting_prov_enable_title">Ieslēgt Ekrāna tapešu karuseli</string>
+    <string name="setting_require_one_category_hint">Izvēlieties vismaz 1 kategoriju</string>
+    <string name="setting_sti_desc">Uzstādīt ekrāna tapešu atjaunināšanas biežumu</string>
+    <string name="setting_sti_title">Atjaunināšanas biežums</string>
+    <string name="setting_subscribe_title">Abonementi</string>
+    <string name="setting_wifi_only_desc">Izslēdziet šo funkciju, lai taupītu mobilos datus</string>
+    <string name="setting_wifi_only_title">Atjaunināt ekrāna tapetes, lietojot mobilos datus</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="share">Share</string>
+    <string name="summary">"Lietojot Ekrāna tapešu karuseli, jūs piekrītat mūsu &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> un &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Ekrāna tapešu karuselim jāpieslēdzas internetam, lai pareizi darbotos."</string>
+    <string name="summary_international">"Lietojot Ekrāna tapešu karuseli, jūs piekrītat mūsu &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> un &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Ekrāna tapešu karuselim jāpieslēdzas internetam, lai pareizi darbotos"</string>
+    <string name="theme_apply_failured">Neizdevās piemērot, mēģiniet vēlreiz vēlāk</string>
+    <string name="theme_apply_success">Lock screen applied</string>
+    <string name="theme_applying">Applying…</string>
+    <string name="wlan_download">Atjaunināt tikai ar Wi-Fi</string>
+    <string name="wlan_download_cn">Atjaunināt tikai ar Wi-Fi</string>
+</resources>

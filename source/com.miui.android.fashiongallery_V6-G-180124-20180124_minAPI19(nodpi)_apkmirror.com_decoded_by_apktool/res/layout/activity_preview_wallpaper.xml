@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.android.fashiongallery.view.PreviewViewPager android:id="@id/preview_viewpager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.miui.android.fashiongallery.preview.ActionMenus android:gravity="bottom" android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/menu" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <include android:gravity="center" android:layout_gravity="bottom|center" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/preview_layer_loading_container_margin_bottom" layout="@layout/loading_container" />
+</merge>

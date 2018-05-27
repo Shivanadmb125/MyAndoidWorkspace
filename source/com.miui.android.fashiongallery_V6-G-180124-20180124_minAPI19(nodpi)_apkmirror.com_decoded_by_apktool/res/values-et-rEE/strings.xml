@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpaper Carousel</string>
+    <string name="apply">Apply</string>
+    <string name="apply_success">Edukalt rakendatud</string>
+    <string name="at_least_one">Valige vähemalt 1 kategooria</string>
+    <string name="auto_interval">Automaatne</string>
+    <string name="cancel">Katkesta</string>
+    <string name="cancel_international">Katkesta</string>
+    <string name="change_time">Vaheta taustapilte</string>
+    <string name="day">Korra päevas</string>
+    <string name="declaration">Hankige Taustapildi Karusselli kasutades iga päev uued taustapildid otse oma Lukustusekraanile.</string>
+    <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+    <string name="declaration_title">Tingimused</string>
+    <string name="dislike">Kustuta</string>
+    <string name="drop_down_notify_text">Release to view more</string>
+    <string name="from_migallerylockscreen">MIUI Taustapildi Karusellist</string>
+    <string name="go_setting">Go to Settings</string>
+    <string name="hour_1">Iga tund</string>
+    <string name="hour_3">Iga 3 tunni tagant</string>
+    <string name="like">Add to favorites</string>
+    <string name="liked">Lemmikutesse lisatud</string>
+    <string name="lockscreen_magazine_summary">Categories</string>
+    <string name="lockscreen_magazine_system_title">Võrgust väljas</string>
+    <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+    <string name="lockscreen_wallpaper_changed">Lukustusekraani taustapilti uuendati</string>
+    <string name="minutes_15">Iga 15 minuti tagant</string>
+    <string name="no_long_show">Ära näita uuesti</string>
+    <string name="ok_international">Agree</string>
+    <string name="ok_lockscreen">Turn on</string>
+    <string name="ok_network">Agree</string>
+    <string name="request_operation_storage_permission_desc">Minge Seadetesse ning lubage Taustapildi Karusellile ligipääs talletusruumile, et te saaksite taustapilte lemmikutesse lisada.</string>
+    <string name="request_permission">Permissions required</string>
+    <string name="request_setting_allow_storage_permission_desc">Minge Seadetesse ning lubage Taustapildi Karusellile ligipääs talletusruumile, et te saaksite taustapilte lemmikutesse lisada.</string>
+    <string name="resource_apply">Apply</string>
+    <string name="resource_no_network_text">Võrguga ei saanud ühendust</string>
+    <string name="setting_favor_desc">Vaadake oma lemmikuid taustapilte</string>
+    <string name="setting_favor_title">Favorites</string>
+    <string name="setting_grid_view_select_all">Select all</string>
+    <string name="setting_grid_view_unselect_all">Eemalda kõik valikutest</string>
+    <string name="setting_head">Sätted</string>
+    <string name="setting_no_favor_wallpaper_hint">Lemmiktaustapilti ei ole</string>
+    <string name="setting_prov_enable_desc">Saage regulaarselt oma Lukustusekraanile taustapilte</string>
+    <string name="setting_prov_enable_title">Lülita Taustapildi Karusell sisse</string>
+    <string name="setting_require_one_category_hint">Valige vähemalt 1 kategooria</string>
+    <string name="setting_sti_desc">Määrake taustapildi uuenduse sagedus</string>
+    <string name="setting_sti_title">Uuenduste sagedus</string>
+    <string name="setting_subscribe_title">Tellimused</string>
+    <string name="setting_wifi_only_desc">Lülitage see joon mobiilandmeside säästmiseks välkja</string>
+    <string name="setting_wifi_only_title">Uuendage taustapilte kasutades mobiilandmesidet</string>
+    <string name="settings">Sätted</string>
+    <string name="share">Share</string>
+    <string name="summary">"Kasutades Taustapildi Karuselli
+õustute te meie &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Kasutajalepingu&lt;/a> ja &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privaatsuspoliitikaga&lt;/a>. Taustapildi Karusell vajab normaalseks tööks internetiühendust."</string>
+    <string name="summary_international">"Kasutades Taustapildi Karuselli
+õustute te meie &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Kasutajalepingu&lt;/a> ja &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privaatsuspoliitikaga&lt;/a>. Taustapildi Karusell vajab normaalseks tööks internetiühendust"</string>
+    <string name="theme_apply_failured">Rakendada ei saanud, proovige hiljem uuesti</string>
+    <string name="theme_apply_success">Lock screen applied</string>
+    <string name="theme_applying">Applying…</string>
+    <string name="wlan_download">Uuendage ainult Wi-Fi’t kasutades</string>
+    <string name="wlan_download_cn">Uuendage ainult Wi-Fi’t kasutades</string>
+</resources>

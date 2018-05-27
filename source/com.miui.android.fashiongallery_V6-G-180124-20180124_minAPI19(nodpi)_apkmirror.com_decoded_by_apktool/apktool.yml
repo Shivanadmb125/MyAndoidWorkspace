@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.miui.android.fashiongallery_V6-G-180124-20180124_minAPI19(nodpi)_apkmirror.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '26'
+sharedLibrary: false
+unknownFiles:
+  miui_push_version: '0'
+  push_version: '0'
+  build-data.properties: '8'
+  gradle.properties: '8'
+  protobuf.meta: '8'
+  HACKED-META-INF/services/io.grpc.ManagedChannelProvider: '8'
+  HACKED-META-INF/services/io.grpc.NameResolverProvider: '8'
+  com/google/api/client/repackaged/org/apache/commons/codec/language/dmrules.txt: '8'
+  error_prone/Annotations.gwt.xml: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
+  third_party/java_src/error_prone/project/annotations/Annotations.gwt.xml: '8'
+  third_party/java_src/error_prone/project/annotations/Google_internal.gwt.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '20180124'
+  versionName: V6-G-180124

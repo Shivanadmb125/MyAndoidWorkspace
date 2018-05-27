@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddImages</string>
+    <string name="todo">TODO</string>
+    <string name="button1">Button</string>
+    <string name="button">TODO</string>
+    <string name="cat1_image">Cat1 Image</string>
+    <string name="new_cat">New Cat</string>
+</resources>

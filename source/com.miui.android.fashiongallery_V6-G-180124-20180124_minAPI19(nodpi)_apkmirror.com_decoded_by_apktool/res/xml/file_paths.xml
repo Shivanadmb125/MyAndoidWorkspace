@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="app_cache" path="app_cache/" />
+    <cache-path name="glide_image" path="glide_image/" />
+    <external-path name="collect_image" path="Pictures/FashionGallery/" />
+    <external-files-path name="share_cache" path="Pictures/.share_cache/" />
+    <files-path name="share_cache2" path=".share_cache/" />
+</paths>

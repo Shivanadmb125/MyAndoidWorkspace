@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="crash_reporting_present" />
+    <item type="id" name="glide_tag" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="line1" />
+    <item type="id" name="line3" />
+    <item type="id" name="text" />
+    <item type="id" name="text2" />
+    <item type="id" name="title" />
+    <item type="id" name="preview_viewpager">false</item>
+    <item type="id" name="menu">false</item>
+    <item type="id" name="container_setting">false</item>
+    <item type="id" name="declaration_content">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="apply">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="root">false</item>
+    <item type="id" name="player_page_container">false</item>
+    <item type="id" name="player_pager_wallpaper">false</item>
+    <item type="id" name="wallpaper_desc_bg_mask">false</item>
+    <item type="id" name="wallpaper_desc_view">false</item>
+    <item type="id" name="player_pager_title">false</item>
+    <item type="id" name="player_pager_content">false</item>
+    <item type="id" name="player_pager_from_container">false</item>
+    <item type="id" name="player_pager_from">false</item>
+    <item type="id" name="player_pager_from_logo">false</item>
+    <item type="id" name="player_pager_bottom_notify_area">false</item>
+    <item type="id" name="player_pager_drop_down_mark">false</item>
+    <item type="id" name="player_pager_drop_down_notify_text">false</item>
+    <item type="id" name="player_pager_menu_mask_bg">false</item>
+    <item type="id" name="player_pager_cp_area">false</item>
+    <item type="id" name="player_pager_author">false</item>
+    <item type="id" name="player_pager_cp_logo">false</item>
+    <item type="id" name="setting_recyclerview">false</item>
+    <item type="id" name="loading_container">false</item>
+    <item type="id" name="item_container">false</item>
+    <item type="id" name="item1">false</item>
+    <item type="id" name="item2">false</item>
+    <item type="id" name="item3">false</item>
+    <item type="id" name="item4">false</item>
+    <item type="id" name="loadingprogressbar">false</item>
+    <item type="id" name="lockscreen_switch">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="select_text">false</item>
+    <item type="id" name="menu_item_image">false</item>
+    <item type="id" name="action_container">false</item>
+    <item type="id" name="action_image">false</item>
+    <item type="id" name="action_text">false</item>
+    <item type="id" name="action0">false</item>
+    <item type="id" name="cancel_action">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="media_actions">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="notification_main_column_container">false</item>
+    <item type="id" name="notification_main_column">false</item>
+    <item type="id" name="right_side">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="notification_background">false</item>
+    <item type="id" name="right_icon">false</item>
+    <item type="id" name="actions">false</item>
+    <item type="id" name="icon_group">false</item>
+    <item type="id" name="end_padder">false</item>
+    <item type="id" name="tag_item_imageview">false</item>
+    <item type="id" name="tag_item_select">false</item>
+    <item type="id" name="tag_item_title">false</item>
+    <item type="id" name="subscribe_title">false</item>
+    <item type="id" name="subscribe_apply_btn">false</item>
+    <item type="id" name="text_area">false</item>
+    <item type="id" name="jumper_title">false</item>
+    <item type="id" name="jumper_des">false</item>
+    <item type="id" name="jumper_arrow">false</item>
+    <item type="id" name="jumper_value">false</item>
+    <item type="id" name="switcher_title">false</item>
+    <item type="id" name="switcher_des">false</item>
+    <item type="id" name="switcher_checkbox">false</item>
+    <item type="id" name="picture">false</item>
+</resources>
