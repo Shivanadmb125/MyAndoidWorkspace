@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months_abbreviated">
+    <item msgid="9066537518640988368">"1 月"</item>
+    <item msgid="4680813504147866612">"2 月"</item>
+    <item msgid="1934595560893153574">"3 月"</item>
+    <item msgid="9020107212348500338">"4 月"</item>
+    <item msgid="5734859077892484949">"5 月"</item>
+    <item msgid="8546985030184126468">"6 月"</item>
+    <item msgid="3639654472839533748">"7 月"</item>
+    <item msgid="8434242278630875235">"8 月"</item>
+    <item msgid="8493511009771049442">"9 月"</item>
+    <item msgid="685181459001441496">"10 月"</item>
+    <item msgid="6662413035764778250">"11 月"</item>
+    <item msgid="3784870986696899313">"12 月"</item>
+  </string-array>
+    <string msgid="5194321063173381814" name="added_on">"添加日期："</string>
+    <string msgid="5198388817734336004" name="album">"相册"</string>
+    <string msgid="3441280740465738452" name="album_selected">"本相册已选定"</string>
+    <string msgid="1815225920157190983" name="albums_selected">"本相册已选定"</string>
+    <string msgid="1928079047368929634" name="app_name">"图库"</string>
+    <string msgid="2223906282110417412" name="around">"大概位置："</string>
+    <string msgid="2730811566218090802" name="camera">"相机"</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"壁纸"</string>
+    <string msgid="3637516880917356226" name="cancel">"取消"</string>
+    <string msgid="5731757674837098707" name="confirm_delete">"确认删除"</string>
+    <string msgid="7970750655414797277" name="crop">"修剪"</string>
+    <string msgid="5303657888280340603" name="crop_discard_text">"舍弃"</string>
+    <string msgid="521114301871349328" name="crop_label">"修剪照片"</string>
+    <string msgid="8140440041190264400" name="crop_save_text">"保存"</string>
+    <string msgid="4277113471036917386" name="date_unknown">"日期未知"</string>
+    <string msgid="2839695998251824487" name="delete">"删除"</string>
+    <string msgid="7397531298370285581" name="deselect_all">"取消全选"</string>
+    <string msgid="8415120088556445230" name="details">"详细信息"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="6848594369924424312" name="details_ok">"确定"</string>
+    <string msgid="3645506196012005500" name="end">"结束"</string>
+    <string msgid="259405922673466798" name="gadget_title">"相框"</string>
+    <string msgid="2374228157398540466" name="initializing">"正在载入"</string>
+    <string msgid="636303673288563698" name="item">"项"</string>
+    <string msgid="6137767503817908841" name="item_selected">"项已选定"</string>
+    <string msgid="6403254716052150916" name="items">"项"</string>
+    <string msgid="8548754404879264861" name="items_selected">"项已选定"</string>
+    <string msgid="7893793767294787579" name="loading_new">"正在载入新相册和新照片"</string>
+    <string msgid="4013492720121891585" name="loading_video">"正在载入视频..."</string>
+    <string msgid="3432705876921618314" name="location">"地点"</string>
+    <string msgid="6310139243003315255" name="location_unknown">"未知地点"</string>
+    <string msgid="1819649153380636719" name="menu">"菜单"</string>
+    <string msgid="1526449516720792387" name="more">"更多"</string>
+    <string msgid="3697303290960009886" name="movie_view_label">"电影"</string>
+    <string msgid="3127018992717032779" name="multiface_crop_help">"轻点一张脸开始裁剪。"</string>
+    <string msgid="3117870234034732172" name="no_items">"您还没有照片或视频。"</string>
+    <string msgid="2666880203366429182" name="no_sd_card">"SD 卡已卸载或不存在"</string>
+    <string msgid="9156805088935882242" name="no_usb_storage">"未装载 USB 存储设备"</string>
+    <string msgid="7248789132035843128" name="pick">"精选"</string>
+    <string msgid="576608096149718121" name="pick_prompt">"从您的收藏中挑选一个"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"从 %s 开始继续播放？"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"重新开始"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"继续播放"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"继续播放视频"</string>
+    <string msgid="7412075232752726934" name="rotate_left">"向左旋转"</string>
+    <string msgid="7340681085011826618" name="rotate_right">"向右旋转"</string>
+    <string msgid="4094707964259463039" name="running_face_detection">"请稍候..."</string>
+    <string msgid="7270334453636349407" name="saving_image">"正在保存照片..."</string>
+    <string msgid="8623593677101437957" name="select_all">"全选"</string>
+    <string msgid="3636764710790507868" name="set_as">"设置为"</string>
+    <string msgid="5704970402417438945" name="set_as_wallpaper">"设置为壁纸"</string>
+    <string msgid="2331476809308010401" name="set_image">"将照片设置为"</string>
+    <string msgid="3619042788254195341" name="share">"分享"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"显示在地图上"</string>
+    <string msgid="4355906903247112975" name="slideshow">"播放幻灯片"</string>
+    <string msgid="4316892252528232165" name="start">"启动"</string>
+    <string msgid="3269486910757192479" name="taken_on">"拍摄日期"</string>
+    <string msgid="7622928349908052569" name="title">"标题"</string>
+    <string msgid="4329478642546287192" name="type">"类型"</string>
+    <string msgid="7917736494827857757" name="video_err">"无法播放视频"</string>
+    <string msgid="9222901738515471972" name="wallpaper">"正在设置壁纸，请稍候..."</string>
+</resources>

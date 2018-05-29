@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "map": [
+                {
+                    "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/values-pa/strings.xml",
+                    "from": {
+                        "startLines": "230",
+                        "startColumns": "4",
+                        "startOffsets": "10746",
+                        "endColumns": "92",
+                        "endOffsets": "10834"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "92",
+                        "endOffsets": "143"
+                    }
+                }
+            ]
+        }
+    ]
+}

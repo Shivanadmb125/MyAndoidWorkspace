@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:1-207:12
+	package
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:18:11-38
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:20:11-36
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:19:11-34
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+original-package
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:23:5-57
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:23:23-55
+uses-sdk
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:26:5-27:46
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:26:5-27:46
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:26:5-27:46
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:26:5-27:46
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:26:5-27:46
+	android:targetSdkVersion
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:27:15-44
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:30:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:31:5-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:31:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:32:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:33:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:34:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:35:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:37:22-72
+application
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:40:5-205:19
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:42:13-54
+	android:allowTaskReparenting
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:44:13-48
+	android:icon
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:41:13-47
+	android:taskAffinity
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:43:13-54
+	android:usesCleartextTraffic
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:45:13-48
+meta-data#com.google.android.gms.car.application
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:48:9-49:65
+	android:resource
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:49:20-63
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:48:20-73
+activity#com.android.music.MusicBrowserActivity
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:52:9-61:20
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:54:19-42
+	android:theme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:53:19-66
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:52:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:55:13-60:29
+action#android.intent.action.MAIN
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:56:17-68
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:56:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:57:17-75
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:57:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:58:27-74
+category#android.intent.category.APP_MUSIC
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:59:27-75
+activity#com.android.music.AudioPreview
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:63:9-96:20
+	android:excludeFromRecents
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:65:19-52
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:65:53-76
+	android:theme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:63:47-90
+	android:taskAffinity
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:64:19-42
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:63:19-46
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:66:13-74:29
+action#android.intent.action.VIEW
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:67:25-66
+data
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:69:17-46
+	android:host
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:145:23-43
+	android:scheme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:69:23-44
+	android:mimeType
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:70:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:75:13-84:29
+category#android.intent.category.BROWSABLE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:78:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:85:13-95:29
+	android:priority
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:86:21-42
+activity#com.android.music.MusicPicker
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:98:9-118:20
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:99:19-61
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:99:62-85
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:98:19-63
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:102:13-109:29
+action#android.intent.action.GET_CONTENT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:103:17-76
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:103:25-73
+category#android.intent.category.OPENABLE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:105:17-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:105:27-74
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/audio
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:112:13-117:29
+action#android.intent.action.PICK
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:113:25-66
+activity#com.android.music.MediaPlaybackActivity
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:133:9-155:20
+	android:clearTaskOnLaunch
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:138:19-51
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:135:19-61
+	android:excludeFromRecents
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:139:19-52
+	android:launchMode
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:137:19-50
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:140:19-42
+	android:theme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:134:19-66
+	android:taskAffinity
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:136:19-42
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:133:19-73
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:media+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:141:13-150:29
+intent-filter#action:name:com.android.music.PLAYBACK_VIEWER+category:name:android.intent.category.DEFAULT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:151:13-154:29
+action#com.android.music.PLAYBACK_VIEWER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:152:17-75
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:152:25-73
+activity#com.android.music.ArtistAlbumBrowserActivity
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:157:9-164:20
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:158:19-43
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:157:19-78
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/artistalbum
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:159:13-163:29
+activity#com.android.music.AlbumBrowserActivity
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:166:9-172:20
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:166:73-97
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:166:19-72
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/album
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:167:13-171:29
+activity#com.android.music.TrackBrowserActivity
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:174:9-180:20
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:174:73-97
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:174:19-72
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/track
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:175:13-179:29
+activity#com.android.music.PlaylistBrowserActivity
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:182:9-195:20
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:183:19-60
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:184:19-42
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:182:19-75
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:185:13-189:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:190:13-194:29
+service#com.android.music.MediaPlaybackService
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:197:9-203:19
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:199:18-66
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:198:18-41
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:197:18-71
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:200:13-202:29
+action#android.media.browse.MediaBrowserService
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:201:17-83
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/AndroidManifest.xml:201:25-80

@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_list_selector_background.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/list_selector_background.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_playback_ic_play_small.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/btn_playback_ic_play_small.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_albums_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_albums_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_skip_previous_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_skip_previous_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_album_border_large.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/album_border_large.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_btn_nowplaying_background_small.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/btn_nowplaying_background_small.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-land-mdpi_albumart_mp_unknown.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-land-mdpi/albumart_mp_unknown.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_playback_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_playback_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_pickerbox_selected.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/pickerbox_selected.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_songs_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_songs_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_current_playlist_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_current_playlist_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_statusbar.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/statusbar.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_playlist_tile_longpress.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/playlist_tile_longpress.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_bg.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_bg.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_music_picker_item.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/music_picker_item.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_now_playing_progress_handle_pressed.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/now_playing_progress_handle_pressed.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_repeat_off_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_repeat_off_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_inner_focus_c.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_inner_focus_c.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_bg.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_bg.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_edit_track_list_item.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/edit_track_list_item.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_media_picker_activity.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/media_picker_activity.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_indicator_ic_mp_playing_large.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/indicator_ic_mp_playing_large.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_current_playlist_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_current_playlist_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_indicator_ic_mp_playing_large.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/indicator_ic_mp_playing_large.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_playlist_tile_normal.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/playlist_tile_normal.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xhdpi/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_app_music.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/app_music.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_playlist_recently_added_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_playlist_recently_added_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_movie.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/movie.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_playback_ic_play_small.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/btn_playback_ic_play_small.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_play_clip.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_play_clip.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_playback_small_normal.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/btn_playback_small_normal.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_music_library.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_music_library.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_appwidget_music_play.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_appwidget_music_play.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_shuffle_off_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_shuffle_off_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_inner_press_r.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_inner_press_r.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_app_video.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/app_video.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_seek_thumb.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/seek_thumb.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_track_list_item_common.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/track_list_item_common.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-land_media_picker_activity.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-land/media_picker_activity.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_ic_tab_playlists.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/ic_tab_playlists.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_ic_tab_artists.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/ic_tab_artists.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_clear_playlist.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-keysexposed_create_playlist.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-keysexposed/create_playlist.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_pickerbox_background.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/pickerbox_background.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_set_as_ringtone.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_set_as_ringtone.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_appwidget_button_left.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/appwidget_button_left.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_inner_focus_r.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_inner_focus_r.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_playlist_recently_added_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_playlist_recently_added_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/color_tab_indicator_text.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/color/tab_indicator_text.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/xml_searchable.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_artist_playback.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_artist_playback.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_list_selector_background_transition.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_playlist_tile_pressed.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/playlist_tile_pressed.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_midi.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/midi.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_inner_focus_l.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_inner_focus_l.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_app_video.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/app_video.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_buttonbarbackground.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/buttonbarbackground.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_playlist_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_playlist_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_appwidget_music_play.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_appwidget_music_play.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_appwidget_music_next.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_appwidget_music_next.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_now_playing_progress_handle_pressed.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/now_playing_progress_handle_pressed.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_midi.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/midi.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_party_shuffle.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_party_shuffle.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_buttonbar_inactive.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/buttonbar_inactive.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_track_list_item_group.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/track_list_item_group.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_artist_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_artist_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_buttonbar_inactive.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/buttonbar_inactive.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_buttonbar.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/buttonbar.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_playback_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_playback_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_songs_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_songs_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_buttonbar_active.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/buttonbar_active.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_delete.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_buttonbar_pressed.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/buttonbar_pressed.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_playlists_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_playlists_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_shuffle_off_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_shuffle_off_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_pickerbox_unselected.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/pickerbox_unselected.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_albums_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_albums_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_audiopreview.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/audiopreview.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_inner_press_c.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_inner_press_c.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_party_shuffle.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_party_shuffle.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-land_media_picker_activity_expanding.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-land/media_picker_activity_expanding.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_skip_next_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_skip_next_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_playlist_tile_normal.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/playlist_tile_normal.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_appwidget_music_pause.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_appwidget_music_pause.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_slide_keyboard.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_slide_keyboard.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_repeat_all_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_repeat_all_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_appwidget_music_next.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_appwidget_music_next.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_songs_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_songs_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_pickerbox_selected.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/pickerbox_selected.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_playback_ic_pause_small.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/btn_playback_ic_pause_small.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_artists_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_artists_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_playback_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_playback_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_albumart_mp_unknown_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/albumart_mp_unknown_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_track_list_item_child.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/track_list_item_child.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_playlist_tile_selected.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/playlist_tile_selected.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_play_clip.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_play_clip.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_panel_now_playing_progress_bg.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/panel_now_playing_progress_bg.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_artists_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_artists_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search_category_music_song.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_search_category_music_song.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_playback_small_normal.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/btn_playback_small_normal.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-port-finger-854x480_audio_player.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-port-finger-854x480/audio_player.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_playback_small_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/btn_playback_small_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_pickerbox_unselected.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/pickerbox_unselected.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_album_playback.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_album_playback.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_repeat_once_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_repeat_once_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_shuffle_on_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_shuffle_on_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_buttonbar_focused.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/buttonbar_focused.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_playback_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_playback_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_inner_press_c.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_inner_press_c.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_scanning.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/scanning.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_playlist_tile_drag.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/playlist_tile_drag.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_nowplaying.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/nowplaying.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_appwidget_button_right.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/appwidget_button_right.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_ic_tab_songs.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/ic_tab_songs.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_albums_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_albums_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_playlists_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_playlists_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/xml_appwidget_info.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/xml/appwidget_info.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xxhdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_clear_playlist.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_eq.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_eq.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-land-hdpi_albumart_mp_unknown.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-land-hdpi/albumart_mp_unknown.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_songs_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_songs_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_ic_tab_playback.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/ic_tab_playback.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_pickerbox_background.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/pickerbox_background.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_now_playing_progress_handle_normal.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/now_playing_progress_handle_normal.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_skip_next_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xxhdpi/ic_skip_next_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_panel_now_playing_progress_bg.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/panel_now_playing_progress_bg.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notification.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_shortcut_music_playlist.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_launcher_shortcut_music_playlist.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_eq.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_eq.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_shuffle.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_shuffle.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_stat_notify_musicplayer.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/stat_notify_musicplayer.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_repeat_all_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_repeat_all_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_playlist_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_playlist_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_appwidget_button_center.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/appwidget_button_center.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_playlist_tile_longpress.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/playlist_tile_longpress.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search_category_music_song.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_search_category_music_song.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_query_activity.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/query_activity.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_buttonbar_focused.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/buttonbar_focused.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xhdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_albums_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_albums_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_music_bottom_playback_bg.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/music_bottom_playback_bg.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_inner_focus_c.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_inner_focus_c.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_buttonbar_active.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/buttonbar_active.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_now_playing_progress_handle_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/now_playing_progress_handle_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_skip_previous_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xhdpi/ic_skip_previous_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_slide_keyboard.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_slide_keyboard.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_shortcut_music_playlist.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_launcher_shortcut_music_playlist.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_music_library.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_music_library.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_sd_card.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_sd_card.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_set_as_ringtone.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_menu_set_as_ringtone.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_divider.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_divider.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_inner_focus_l.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_inner_focus_l.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_appwidget_music_pause.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_appwidget_music_pause.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_ic_tab_albums.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/ic_tab_albums.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_music_bottom_playback_bg.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/music_bottom_playback_bg.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_inner_focus_r.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_inner_focus_r.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_song_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_song_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_confirm_delete.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/confirm_delete.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_playlists_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_playlists_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_skip_previous_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xxhdpi/ic_skip_previous_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_sd_card.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_sd_card.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_movie.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/movie.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_artist_playback.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_artist_playback.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_album_border_large.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/album_border_large.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_delete.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_skip_next_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xhdpi/ic_skip_next_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_app_music.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/app_music.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_partyshuffle_on_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_partyshuffle_on_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_weekpicker.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/weekpicker.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_playlist_tile_selected.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/playlist_tile_selected.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_white_24dp.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xxhdpi/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_buttonbar_pressed.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/buttonbar_pressed.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_artists_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_tab_artists_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_audio_player_common.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/audio_player_common.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_inner_press_r.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_inner_press_r.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_list_selector.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_repeat_off_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_repeat_off_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-land_buttonbar.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-land/buttonbar.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_playlist_tile.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/playlist_tile.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_song_playback.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_song_playback.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_indicator_ic_mp_playing_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/indicator_ic_mp_playing_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_playback_small_pressed.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/btn_playback_small_pressed.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_album_appwidget.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/album_appwidget.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_playlist_tile_pressed.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/playlist_tile_pressed.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_artist_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_artist_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_playback_small_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/btn_playback_small_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_appwidget_inner_press_l.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/appwidget_inner_press_l.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_playback_ic_pause_small.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/btn_playback_ic_pause_small.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_inner_press_l.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_inner_press_l.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/xml_automotive_app_desc.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_playback_small_pressed.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/btn_playback_small_pressed.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_albumart_mp_unknown.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/albumart_mp_unknown.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_music_picker.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/music_picker.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-land_audio_player.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-land/audio_player.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_repeat_once_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_repeat_once_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable_progress_horizontal.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable/progress_horizontal.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_audio_player.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/audio_player.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout-keyshidden_create_playlist.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout-keyshidden/create_playlist.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_now_playing_progress_handle_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/now_playing_progress_handle_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_now_playing_progress_handle_normal.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/now_playing_progress_handle_normal.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_albumart_mp_unknown.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/albumart_mp_unknown.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_partyshuffle_on_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_partyshuffle_on_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_shuffle.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_menu_shuffle.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_indicator_ic_mp_playing_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/indicator_ic_mp_playing_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_appwidget_divider.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/appwidget_divider.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_scanning_nosdcard.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/scanning_nosdcard.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mp_shuffle_on_btn.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/ic_mp_shuffle_on_btn.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_artists_selected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_artists_selected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_albumart_mp_unknown_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/albumart_mp_unknown_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_playlists_unselected.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_tab_playlists_unselected.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_song_list.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_song_list.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_stat_notify_musicplayer.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/stat_notify_musicplayer.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_song_playback.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_song_playback.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_default_art.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-xxhdpi/ic_default_art.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_track_list_item.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/track_list_item.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-mdpi_playlist_tile_drag.9.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-mdpi/playlist_tile_drag.9.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mp_album_playback.png.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/drawable-hdpi/ic_mp_album_playback.png"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_media_picker_activity_expanding.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/media_picker_activity_expanding.xml"
+    },
+    {
+        "merged": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/res/merged/debug/layout_sd_error.xml.flat",
+        "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/layout/sd_error.xml"
+    }
+]

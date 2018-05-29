@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB-keyshidden/values-en-rGB-keyshidden.xml",
+            "map": [
+                {
+                    "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/values-en-rGB-keyshidden/strings.xml",
+                    "from": {
+                        "startLines": "21,23,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,1189,1016",
+                        "endColumns": "210,237,172",
+                        "endOffsets": "1011,1422,1184"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,312,542",
+                        "endColumns": "206,229,168",
+                        "endOffsets": "307,537,706"
+                    }
+                }
+            ]
+        }
+    ]
+}

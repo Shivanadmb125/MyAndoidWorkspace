@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk-keysexposed/values-sk-keysexposed.xml",
+            "map": [
+                {
+                    "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/values-sk-keysexposed/strings.xml",
+                    "from": {
+                        "startLines": "21,23,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,1072,920",
+                        "endColumns": "114,150,151",
+                        "endOffsets": "915,1218,1067"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,220,367",
+                        "endColumns": "114,146,147",
+                        "endOffsets": "215,362,510"
+                    }
+                }
+            ]
+        }
+    ]
+}

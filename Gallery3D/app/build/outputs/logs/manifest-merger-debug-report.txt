@@ -1,0 +1,347 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:1-197:12
+	package
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:5:64-92
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:5:5-63
+	android:versionCode
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:3:11-38
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml
+original-package
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:7:5-59
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:7:23-56
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:14:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:16:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:17:22-75
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:18:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:20:22-78
+supports-screens
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:22:5-24:37
+	android:largeScreens
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:23:38-65
+	android:smallScreens
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:22:23-51
+	android:normalScreens
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:23:9-37
+	android:anyDensity
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:24:9-34
+application
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:26:5-196:19
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:26:48-80
+	android:icon
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:26:18-47
+activity#com.cooliris.media.Gallery
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:27:9-84:20
+	android:clearTaskOnLaunch
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:30:13-45
+	android:stateNotNeeded
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:31:13-42
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:27:61-93
+	android:noHistory
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:30:46-71
+	android:configChanges
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:28:13-71
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:27:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:34:27-74
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.GET_CONTENT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:37:25-73
+category#android.intent.category.OPENABLE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:38:27-74
+data
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:39:17-73
+	android:scheme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:103:23-44
+	android:mimeType
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:39:23-70
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:image/*+data:mimeType:video/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:41:13-47:29
+category#android.intent.category.DEFAULT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:44:27-73
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:image/*+data:mimeType:video/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:48:13-53:29
+action#android.intent.action.PICK
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:49:25-66
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:54:13-58:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:59:13-63:29
+action#android.intent.action.VIEW
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:60:25-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:64:13-68:29
+intent-filter#action:name:com.cooliris.media.action.REVIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:69:13-73:29
+action#com.cooliris.media.action.REVIEW
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:70:17-75
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:70:25-72
+intent-filter#action:name:com.cooliris.media.action.REVIEW+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:74:13-78:29
+intent-filter#action:name:com.cooliris.media.action.REVIEW+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:79:13-83:30
+activity#com.cooliris.media.CropImage
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:85:9-94:20
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:86:64-98
+	android:configChanges
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:86:13-63
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:85:19-62
+intent-filter#action:name:com.android.camera.action.CROP+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE+data:mimeType:image/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:87:13-93:29
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:87:28-62
+action#com.android.camera.action.CROP
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:88:17-73
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:88:25-70
+category#android.intent.category.ALTERNATIVE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:91:17-80
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:91:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:92:17-89
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:92:27-86
+activity#com.cooliris.media.MovieView
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:95:9-122:20
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:96:13-53
+	android:configChanges
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:97:13-63
+	android:theme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:98:13-77
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:95:19-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:rtsp
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:99:13-104:30
+category#android.intent.category.BROWSABLE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:102:17-78
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:102:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/sdp+data:mimeType:video/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:105:14-110:30
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/3gp+data:mimeType:video/3gpp+data:mimeType:video/3gpp2+data:mimeType:video/mp4+data:mimeType:video/mpeg4+data:scheme:http
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:111:14-121:30
+activity#com.cooliris.media.Photographs
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:124:9-134:20
+	android:icon
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:124:65-94
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:124:19-64
+intent-filter#action:name:android.intent.action.ATTACH_DATA+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:125:13-129:29
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:125:28-74
+action#android.intent.action.ATTACH_DATA
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:126:17-76
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:126:25-73
+intent-filter#action:name:android.intent.action.SET_WALLPAPER+category:name:android.intent.category.DEFAULT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:130:13-133:29
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:130:28-60
+action#android.intent.action.SET_WALLPAPER
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:131:17-78
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:131:25-75
+provider#com.cooliris.picasa.PicasaContentProvider
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:135:9-139:20
+	android:grantUriPermissions
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:136:13-47
+	android:authorities
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:138:13-70
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:135:19-52
+	android:syncable
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:137:13-36
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:135:53-109
+service#com.cooliris.picasa.PicasaService
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:140:9-145:19
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:140:18-53
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:140:54-102
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:141:13-143:29
+action#android.content.SyncAdapter
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:142:17-70
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:142:25-67
+meta-data#android.content.SyncAdapter
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:144:13-105
+	android:resource
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:144:67-102
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:144:24-66
+service#com.cooliris.cache.CacheService
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:147:9-95
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:147:18-46
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:147:47-93
+receiver#com.cooliris.cache.BootReceiver
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:149:9-167:20
+	android:enabled
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:150:13-35
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:149:19-47
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:149:48-94
+intent-filter#action:name:android.intent.action.BOOT_COMPLETE+category:name:android.intent.category.DEFAULT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:151:13-154:29
+action#android.intent.action.BOOT_COMPLETE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:153:17-78
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:153:25-75
+intent-filter#action:name:android.intent.action.MEDIA_SCANNER_FINISHED+data:scheme:file
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:155:13-158:29
+action#android.intent.action.MEDIA_SCANNER_FINISHED
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:156:17-87
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:156:25-84
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+data:scheme:file
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:159:13-162:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:160:17-78
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:160:25-75
+intent-filter#action:name:android.intent.action.MEDIA_EJECT+data:scheme:file
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:163:13-166:29
+action#android.intent.action.MEDIA_EJECT
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:164:17-76
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:164:25-73
+receiver#com.cooliris.media.PhotoAppWidgetProvider
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:169:9-174:20
+	android:label
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:169:76-112
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:169:19-75
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:170:13-172:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:171:17-84
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:171:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:173:13-107
+	android:resource
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:173:66-104
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:173:24-65
+activity#com.cooliris.media.PhotoAppWidgetConfigure
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:177:9-181:20
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:177:19-76
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:178:13-180:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:179:17-87
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:179:25-84
+activity#com.cooliris.media.PhotoAppWidgetBind
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:187:9-189:74
+	android:exported
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:187:72-95
+	android:permission
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:189:17-71
+	android:theme
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:188:17-63
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:187:19-71
+receiver#com.cooliris.picasa.PicasaReceiver
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:191:9-195:20
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:191:19-68
+intent-filter#action:name:android.accounts.LOGIN_ACCOUNTS_CHANGED_ACTION
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:192:17-194:33
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED_ACTION
+ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:193:21-92
+	android:name
+		ADDED from /home/shivanand/Music/MyAndoidWorkspace/Gallery3D/app/src/main/AndroidManifest.xml:193:29-90

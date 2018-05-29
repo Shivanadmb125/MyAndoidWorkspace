@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN-keysexposed/values-zh-rCN-keysexposed.xml",
+            "map": [
+                {
+                    "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/values-zh-rCN-keysexposed/strings.xml",
+                    "from": {
+                        "startLines": "21,23,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,1033,904",
+                        "endColumns": "98,127,128",
+                        "endOffsets": "899,1156,1028"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,204,328",
+                        "endColumns": "98,123,124",
+                        "endOffsets": "199,323,448"
+                    }
+                }
+            ]
+        }
+    ]
+}

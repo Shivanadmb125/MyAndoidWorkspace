@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months_abbreviated">
+    <item msgid="9066537518640988368">"يناير"</item>
+    <item msgid="4680813504147866612">"فبراير"</item>
+    <item msgid="1934595560893153574">"مارس"</item>
+    <item msgid="9020107212348500338">"أبريل"</item>
+    <item msgid="5734859077892484949">"مايو"</item>
+    <item msgid="8546985030184126468">"يونيو"</item>
+    <item msgid="3639654472839533748">"يوليو"</item>
+    <item msgid="8434242278630875235">"أغسطس"</item>
+    <item msgid="8493511009771049442">"سبتمبر"</item>
+    <item msgid="685181459001441496">"أكتوبر"</item>
+    <item msgid="6662413035764778250">"نوفمبر"</item>
+    <item msgid="3784870986696899313">"ديسمبر"</item>
+  </string-array>
+    <string msgid="5194321063173381814" name="added_on">"تمت إضافته في"</string>
+    <string msgid="5198388817734336004" name="album">"الألبوم"</string>
+    <string msgid="3441280740465738452" name="album_selected">"تم تحديد الألبوم"</string>
+    <string msgid="1815225920157190983" name="albums_selected">"تم تحديد الألبومات"</string>
+    <string msgid="1928079047368929634" name="app_name">"المعرض"</string>
+    <string msgid="2223906282110417412" name="around">"بالقرب من"</string>
+    <string msgid="2730811566218090802" name="camera">"الكاميرا"</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"الخلفية"</string>
+    <string msgid="3637516880917356226" name="cancel">"إلغاء"</string>
+    <string msgid="5731757674837098707" name="confirm_delete">"تأكيد الحذف"</string>
+    <string msgid="7970750655414797277" name="crop">"اقتصاص"</string>
+    <string msgid="5303657888280340603" name="crop_discard_text">"إلغاء"</string>
+    <string msgid="521114301871349328" name="crop_label">"اقتصاص الصورة"</string>
+    <string msgid="8140440041190264400" name="crop_save_text">"حفظ"</string>
+    <string msgid="4277113471036917386" name="date_unknown">"التاريخ غير معروف"</string>
+    <string msgid="2839695998251824487" name="delete">"حذف"</string>
+    <string msgid="7397531298370285581" name="deselect_all">"إلغاء تحديد الكل"</string>
+    <string msgid="8415120088556445230" name="details">"التفاصيل"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="6848594369924424312" name="details_ok">"موافق"</string>
+    <string msgid="3645506196012005500" name="end">"الانتهاء"</string>
+    <string msgid="259405922673466798" name="gadget_title">"إطار الصورة"</string>
+    <string msgid="2374228157398540466" name="initializing">"التحميل"</string>
+    <string msgid="636303673288563698" name="item">"عنصر"</string>
+    <string msgid="6137767503817908841" name="item_selected">"تم تحديد العنصر"</string>
+    <string msgid="6403254716052150916" name="items">"من العناصر"</string>
+    <string msgid="8548754404879264861" name="items_selected">"تم تحديد العناصر"</string>
+    <string msgid="7893793767294787579" name="loading_new">"تحميل الألبومات والصور الجديدة"</string>
+    <string msgid="4013492720121891585" name="loading_video">"جارٍ تحميل الفيديو…"</string>
+    <string msgid="3432705876921618314" name="location">"الموقع"</string>
+    <string msgid="6310139243003315255" name="location_unknown">"موقع غير معروف"</string>
+    <string msgid="1819649153380636719" name="menu">"القائمة"</string>
+    <string msgid="1526449516720792387" name="more">"المزيد"</string>
+    <string msgid="3697303290960009886" name="movie_view_label">"الأفلام"</string>
+    <string msgid="3127018992717032779" name="multiface_crop_help">"انقر على وجه للبدء."</string>
+    <string msgid="3117870234034732172" name="no_items">"ليس هناك عناصر في مجموعتك"</string>
+    <string msgid="2666880203366429182" name="no_sd_card">"ربما لم يتم تحميل بطاقة SD أو أنها غير موجودة"</string>
+    <string msgid="9156805088935882242" name="no_usb_storage">"تم إلغاء تركيب وحدة تخزين USB"</string>
+    <string msgid="7248789132035843128" name="pick">"اختيار"</string>
+    <string msgid="576608096149718121" name="pick_prompt">"اختر عنصرًا من المجموعة"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"هل تريد استئناف التشغيل من %s ؟"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"البدء من جديد"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"استئناف التشغيل"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"استئناف الفيديو"</string>
+    <string msgid="7412075232752726934" name="rotate_left">"تدوير لليسار"</string>
+    <string msgid="7340681085011826618" name="rotate_right">"تدوير لليمين"</string>
+    <string msgid="4094707964259463039" name="running_face_detection">"يرجى الانتظار…"</string>
+    <string msgid="7270334453636349407" name="saving_image">"جارٍ حفظ الصورة..."</string>
+    <string msgid="8623593677101437957" name="select_all">"تحديد الكل"</string>
+    <string msgid="3636764710790507868" name="set_as">"تعيين كـ"</string>
+    <string msgid="5704970402417438945" name="set_as_wallpaper">"تعيين كخلفية"</string>
+    <string msgid="2331476809308010401" name="set_image">"تعيين الصورة كـ"</string>
+    <string msgid="3619042788254195341" name="share">"مشاركة"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"عرض على الخريطة"</string>
+    <string msgid="4355906903247112975" name="slideshow">"عرض الشرائح"</string>
+    <string msgid="4316892252528232165" name="start">"بدء"</string>
+    <string msgid="3269486910757192479" name="taken_on">"تم الالتقاط في"</string>
+    <string msgid="7622928349908052569" name="title">"العنوان"</string>
+    <string msgid="4329478642546287192" name="type">"النوع"</string>
+    <string msgid="7917736494827857757" name="video_err">"يتعذر تشغيل الفيديو"</string>
+    <string msgid="9222901738515471972" name="wallpaper">"جارٍ إعداد الخلفية، الرجاء الانتظار..."</string>
+</resources>

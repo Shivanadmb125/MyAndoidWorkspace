@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK-keyshidden/values-zh-rHK-keyshidden.xml",
+            "map": [
+                {
+                    "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/values-zh-rHK-keyshidden/strings.xml",
+                    "from": {
+                        "startLines": "21,23,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,1103,965",
+                        "endColumns": "159,187,137",
+                        "endOffsets": "960,1286,1098"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,261,441",
+                        "endColumns": "155,179,133",
+                        "endOffsets": "256,436,570"
+                    }
+                }
+            ]
+        }
+    ]
+}

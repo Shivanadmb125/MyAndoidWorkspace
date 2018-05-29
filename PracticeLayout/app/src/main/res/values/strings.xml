@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeLayout</string>
+    <string name="hello_duniya">Hello Duniya!</string>
+    <string name="button">Button</string>
+    <string name="button2">Button2</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.cooliris.media"
+      android:versionCode="30682"
+      android:versionName="1.1.30682"
+      split="lib_resources_apk">
+	<uses-sdk android:minSdkVersion="1"/>
+</manifest>

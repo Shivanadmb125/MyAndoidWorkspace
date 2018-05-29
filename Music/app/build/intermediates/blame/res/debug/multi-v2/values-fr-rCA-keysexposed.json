@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA-keysexposed/values-fr-rCA-keysexposed.xml",
+            "map": [
+                {
+                    "source": "/home/shivanand/Music/MyAndoidWorkspace/Music/app/src/main/res/values-fr-rCA-keysexposed/strings.xml",
+                    "from": {
+                        "startLines": "21,23,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,1062,924",
+                        "endColumns": "118,136,137",
+                        "endOffsets": "919,1194,1057"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,224,357",
+                        "endColumns": "118,132,133",
+                        "endOffsets": "219,352,486"
+                    }
+                }
+            ]
+        }
+    ]
+}
