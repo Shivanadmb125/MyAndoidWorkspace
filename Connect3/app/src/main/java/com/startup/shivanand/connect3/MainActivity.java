@@ -7,13 +7,14 @@ import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
+import android.widget.GridLayout;
+
 
 public class MainActivity extends AppCompatActivity {
 
     // 0=red 1=black
     int activePlayer=0;
- //   boolean isGameActive=true;
+    boolean isGameActive=true;
     int gameState[] = {2,2,2,2,2,2,2,2,2};
     int winningPositions[][]={{0,1,2},{3,4,5},{6,7,8},{0,3,6},{1,4,7},{2,5,8},{0,4,8},{2,4,6}};
     public void dropIn (View view) {
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         ImageView counter = (ImageView) view;
 
         int tappedCounter = Integer.parseInt(counter.getTag().toString());
-        if (gameState[tappedCounter] == 2 ) {
+        if (gameState[tappedCounter] == 2 && isGameActive) {
             counter.setTranslationY(-1000f);
             gameState[tappedCounter] = activePlayer;
 
@@ -45,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     //Toast.makeText(MainActivity.this,"Winning Position="+winningPosition[0],Toast.LENGTH_SHORT).show();
 
                    //Someone won
-     //               isGameActive=false;
+                    isGameActive=false;
                     String winner="Black";
                     if (gameState[winningPosition[0]]==0){
                         winner="Red";
@@ -55,7 +56,24 @@ public class MainActivity extends AppCompatActivity {
                     winnerMessage.setText(winner + " has won..!");
                     LinearLayout layout = findViewById(R.id.playAgainLayout);
                     layout.setVisibility(view.VISIBLE);
+                } else {
+
+                    boolean gameOver=true;
+
+                    for(int counterState: gameState) {
+                        if (counterState == 2)
+                            gameOver = false;
+                        }
+
+                        if(gameOver){
+                        TextView winnerMessage = findViewById(R.id.winnerMessage);
+                        winnerMessage.setText("It's draw!!!!");
+                        LinearLayout layout = findViewById(R.id.playAgainLayout);
+                        layout.setVisibility(view.VISIBLE);
+                    }
+
                 }
+
             }
         }
     }
@@ -65,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         LinearLayout layout = findViewById(R.id.playAgainLayout);
         layout.setVisibility(view.INVISIBLE);
 
-     //   isGameActive=true;
+        isGameActive=true;
 
         activePlayer = 0;
 
@@ -73,13 +91,15 @@ public class MainActivity extends AppCompatActivity {
             gameState[i]=2;
         }
 
-        GridLayout gridLayout=(GridLayout) findViewById(R.id.gridLayoutID);
+        android.support.v7.widget.GridLayout gridLayout = (android.support.v7.widget.GridLayout)findViewById(R.id.gridLayoutID);
+       // causing error: final GridLayout gridLayout = (GridLayout)findViewById(R.id.gridLayoutID);
+       // System.out.println("========================gridLayout.getChildCount()"+ gridLayout.getChildCount());
 
-      /*   for (int i=1; i < gridLayout.getChildCount() ; i++){
+        for (int i=0;i < gridLayout.getChildCount() ; i++){
 
              System.out.println("=============Count= "+gridLayout.getChildCount());
             ((ImageView)gridLayout.getChildAt(i)).setImageResource(0);
-        } */
+        }
     }
 
     @Override
